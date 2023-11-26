@@ -32,6 +32,15 @@ To get a copy of this project up and running on your local machine, follow these
    ```bash
    git clone https://github.com/[your-username]/[your-repository].git
 
+# Navigate to your project directory
+cd [your-repository]
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
 ## Usage
 
 - Explore the main page to discover streaming content.
@@ -49,7 +58,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the [Your License] - see the LICENSE.md file for details.
+This project is licensed under the [Your License](https://github.com/hadep275) - see the LICENSE.md file for details.
 
 ## Acknowledgments
 
