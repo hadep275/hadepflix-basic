@@ -13,10 +13,6 @@ hadepflix is a modern and vibrant video streaming web application. It provides a
 
 Check out the live [demo](https://hadep275.github.io/hadepflix-basic/).
 
-## Screenshots
-![screencapture-hadep275-github-io-hadepflix-basic-2023-11-26-13_06_29](https://github.com/hadep275/hadepflix-basic/assets/65734173/fb6ba8ce-21b8-4aca-a361-7562e9393529)
-
-
 ## Getting Started
 
 To get a copy of this project up and running on your local machine, follow these steps:
@@ -51,6 +47,10 @@ npm start
 - HTML5
 - CSS3
 - JavaScript
+
+## Screenshots
+![screencapture-hadep275-github-io-hadepflix-basic-2023-11-26-13_06_29](https://github.com/hadep275/hadepflix-basic/assets/65734173/fb6ba8ce-21b8-4aca-a361-7562e9393529)
+
 
 ## Contributing
 
