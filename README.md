@@ -14,8 +14,8 @@ hadepflix is a modern and vibrant video streaming web application. It provides a
 Check out the live [demo](https://hadep275.github.io/hadepflix-basic/).
 
 ## Screenshots
+![Uploading screencapture-hadep275-github-io-hadepflix-basic-2023-11-26-13_06_29.png…]()
 
-[Include screenshots or gifs of your project in action]
 
 ## Getting Started
 
