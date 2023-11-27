@@ -29,7 +29,7 @@ To get a copy of this project up and running on your local machine, follow these
    git clone https://github.com/hadep275/hadepflix-basic.git
 
 # Navigate to your project directory
-cd [hadepflix-basic]
+cd hadepflix-basic
 
 # Install dependencies
 npm install
