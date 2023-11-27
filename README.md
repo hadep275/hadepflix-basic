@@ -26,7 +26,7 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/[your-username]/[your-repository].git
+   git clone https://github.com/hadep275/hadepflix-basic.git
 
 # Navigate to your project directory
 cd [your-repository]
